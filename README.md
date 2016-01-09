@@ -5,13 +5,18 @@ Stuff I want to read when I have the time.
 
 ## documentaries
 
+## Architectures
+- [Comparisons between architectures]
+[http://www.firatatagun.com/blog/2016/01/09/analysis-of-software-architectures/]
+
 ## education
 - [allaboutcircuits](http://www.allaboutcircuits.com/education/)
 - [drawing/painting/sculpting](http://www.beginnersschool.com/)
 - [paralleltext.io](http://paralleltext.io/)
 - [project euler](https://projecteuler.net/)
 - [smash the stack](http://smashthestack.org/)
-
+- [Learning about learning, good react/ml refs]
+https://medium.com/learning-new-stuff/a-simple-technique-to-learn-hard-stuff-ffaa7879bf7c#.cybnw4jyy
 
 ## programming
 - [flexboxfroggy](http://flexboxfroggy.com/)
