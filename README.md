@@ -7,7 +7,7 @@ Stuff I want to read when I have the time.
 
 ## Architectures
 - [Comparisons between architectures]
-[http://www.firatatagun.com/blog/2016/01/09/analysis-of-software-architectures/]
+(http://www.firatatagun.com/blog/2016/01/09/analysis-of-software-architectures/)
 
 ## education
 - [allaboutcircuits](http://www.allaboutcircuits.com/education/)
@@ -16,7 +16,7 @@ Stuff I want to read when I have the time.
 - [project euler](https://projecteuler.net/)
 - [smash the stack](http://smashthestack.org/)
 - [Learning about learning, good react/ml refs]
-https://medium.com/learning-new-stuff/a-simple-technique-to-learn-hard-stuff-ffaa7879bf7c#.cybnw4jyy
+(https://medium.com/learning-new-stuff/a-simple-technique-to-learn-hard-stuff-ffaa7879bf7c#.cybnw4jyy)
 
 ## programming
 - [flexboxfroggy](http://flexboxfroggy.com/)
