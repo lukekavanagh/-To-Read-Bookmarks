@@ -55,6 +55,7 @@ Stuff I want to read when I have the time.
 - [glass jar](http://glassjarapp.com/)
 - [flat mate](http://mate-apps.com/)
 - [webtorrent](https://webtorrent.io/)
+- [Processing - Coding Visual Arts] (https://processing.org/)
 
 ## people
 - [sam lavigne](http://lav.io/)
