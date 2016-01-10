@@ -23,7 +23,6 @@ Stuff I want to read when I have the time.
 - [custom fonts in emails](https://gist.github.com/anotheruiguy/7379570)
 - [coding your emails](https://www.campaignmonitor.com/dev-resources/guides/coding/)
 - [css support for email clients guide](https://www.campaignmonitor.com/css/)
-- 
 
 ## Workflow 
 
