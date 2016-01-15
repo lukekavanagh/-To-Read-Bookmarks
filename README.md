@@ -15,6 +15,7 @@ Stuff I want to read when I have the time.
 - [paralleltext.io](http://paralleltext.io/)
 - [project euler](https://projecteuler.net/)
 - [smash the stack](http://smashthestack.org/)
+- [Brief History of Neural Networks]http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/
 - [Learning about learning, good react/ml refs]
 (https://medium.com/learning-new-stuff/a-simple-technique-to-learn-hard-stuff-ffaa7879bf7c#.cybnw4jyy)
 
