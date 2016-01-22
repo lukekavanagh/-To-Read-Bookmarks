@@ -118,7 +118,7 @@ Stuff I want to read when I have the time.
 - [ryan dahl: og node presentation](https://www.youtube.com/watch?v=U8TGJhQtEtM)
 
 ## reading list
--[Read Black Swan by Naseem Nicholas Taleb](https://www.wikiwand.com/en/Nassim_Nicholas_Taleb)
+- [Black Swan by Naseem Nicholas Taleb](https://www.wikiwand.com/en/Nassim_Nicholas_Taleb)
 - [Resolving the awkward paradox in Frederic Laloux’s Reinventing Organisations](https://medium.com/@tomnixon/resolving-the-awkward-paradox-in-frederic-laloux-s-reinventing-organisations-f2031080ea02#.y12bo3dff)
 - [brief notes on science](http://www.asymptotejournal.com/nonfiction/goncalo-m-tavares-brief-notes-on-science/)
 - [American Babylon](http://www.amazon.com/American-Babylon-Struggle-Politics-Twentieth-Century/dp/0691124868)
